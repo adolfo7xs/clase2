@@ -1,4 +1,26 @@
 body {
     background-color: #fffbfb;
-
+    font-family: "Aoboshi", "Roboto", "Monomaniac", "Nunito";   
+    margin: 0;   
+    padding: 0;
+}
+.Aoboshi-font{
+    font-family: "Aoboshi";
+}
+.Roboto-font{
+    font-family: "Roboto";
+}
+.top-menu{
+    background-color: #001950;
+    color: white;
+    padding: 10px 0 10px 0 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.top-menu-options{
+    margin-left: 15px;
+}
+.info-header{
+    margin-top: 50px;
 }
